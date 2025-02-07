@@ -4,6 +4,9 @@ Ce projet s'inscrit dans le cadre de ma formation Data Analyst d'OpenClassrooms.
 
 ## Mise en Situation
 
+![Capture d'écran 2025-02-07 151630](https://github.com/user-attachments/assets/87becc89-b493-40ff-8903-1cf4b24678ee)
+
+
 Aéroworld, entreprise française et leader mondial dans l'industrie aéronautique, compte des milliers d'employés répartis dans de
 nombreux pays. Elle cherche actuellemnt un profil de Data Analyst chef de projet expérimenté et polyvalent, intéressé par une évolution possible vers le management d’une
 équipe et par l’innovation en Data.
